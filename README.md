@@ -18,14 +18,14 @@ The desktop application provides the means to convey the data of the library to 
 
 ### Screenshots of the application
 
-<img src = "https://github.com/shlokashah/Data_Visualization_In_Java/blob/documentation/docs/1.png">
-<img src = "https://github.com/shlokashah/Data_Visualization_In_Java/blob/documentation/docs/2.png">
-<img src = "https://github.com/shlokashah/Data_Visualization_In_Java/blob/documentation/docs/3.png">
-<img src = "https://github.com/shlokashah/Data_Visualization_In_Java/blob/documentation/docs/4.png">
-<img src = "https://github.com/shlokashah/Data_Visualization_In_Java/blob/documentation/docs/5.png">
-<img src = "https://github.com/shlokashah/Data_Visualization_In_Java/blob/documentation/docs/6.png">
-<img src = "https://github.com/shlokashah/Data_Visualization_In_Java/blob/documentation/docs/7.png">
-<img src = "https://github.com/shlokashah/Data_Visualization_In_Java/blob/documentation/docs/8.png">
+<img src = "https://github.com/shlokashah/Data_Visualization_In_Java/blob/master/docs/1.png">
+<img src = "https://github.com/shlokashah/Data_Visualization_In_Java/blob/master/docs/2.png">
+<img src = "https://github.com/shlokashah/Data_Visualization_In_Java/blob/master/docs/3.png">
+<img src = "https://github.com/shlokashah/Data_Visualization_In_Java/blob/master/docs/4.png">
+<img src = "https://github.com/shlokashah/Data_Visualization_In_Java/blob/master/docs/5.png">
+<img src = "https://github.com/shlokashah/Data_Visualization_In_Java/blob/master/docs/6.png">
+<img src = "https://github.com/shlokashah/Data_Visualization_In_Java/blob/master/docs/7.png">
+<img src = "https://github.com/shlokashah/Data_Visualization_In_Java/blob/master/docs/8.png">
 
 
 
